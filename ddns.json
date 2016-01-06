@@ -1,0 +1,7 @@
+{
+    "email": "foo@bar.com",
+    "api_key": "api_key",
+    "zone_id": "zone_id",
+    "domain": "baz.com",
+    "record_id": "record_id"
+}
